@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @muhferdyal
-HARUS DI BUKA MENGGUNAKAN EXTENTION MOBILE SIMULATOR CHROME
 
 
 <!---
